@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Rust Arabic Course
+longtitle:        Rust Arabic Course
+author:           Ali Bourgleh
+email:            xbourgleh@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  A website that teaches the fundemantals of rust in Arabic
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://gixousiyq.github.io'
+baseurl:          '/rust'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
